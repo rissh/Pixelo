@@ -1,3 +1,3 @@
-# Build cloudinary AI powered SAAS
+# Pixelo
 
-Project is Build using NextJS, cloudinary, Prisma, NeonDB and Daisy UI
+Harness the power of AI with Pixelo, your go-to SaaS for smart and efficient media transformations
